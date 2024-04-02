@@ -1,2 +1,2 @@
-# sequential_SLAM
+# sequential_SfM
 Sequential SLAM without global optimization. 
